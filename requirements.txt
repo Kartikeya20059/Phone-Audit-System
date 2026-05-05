@@ -1,0 +1,15 @@
+streamlit
+pandas
+python-dateutil
+matplotlib
+scikit-learn
+numpy
+statsmodels
+reportlab
+Pillow
+plotly
+seaborn
+umap-learn
+pyod
+tensorflow
+scipy
